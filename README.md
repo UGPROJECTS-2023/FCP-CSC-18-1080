@@ -23,7 +23,7 @@ Clone this repository to your local machine:
 
 bash
 Copy code
-git clone https://github.com/iamkhaleel/UGPROJECTS-2023/FCP-CSC-18-1080/FudMentor.git
+git clone 
 Navigate to the project directory:
 
 bash
@@ -38,6 +38,7 @@ Set up Firebase:
 
 Add your Firebase configuration to the google-services.json (Android) and GoogleService-Info.plist (iOS) files.
 Enable authentication and set up the necessary Firestore collections.
+
 Run the app:
 
 bash
@@ -50,6 +51,4 @@ License
 This project is licensed under the MIT License.
 
 Acknowledgments
-Special thanks to the Supervisor, Flutter, Dart, and Firebase communities for their invaluable contributions.
-
-Happy mentoring!
+Special thanks to the Project Supervisor Mallam Abdulaziz Yusuf, Flutter, Dart, and Firebase communities for their invaluable contributions.
