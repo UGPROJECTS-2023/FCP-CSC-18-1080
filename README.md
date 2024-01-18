@@ -23,7 +23,7 @@ Clone this repository to your local machine:
 
 bash
 Copy code
-git clone https://github.com/iamkhaleel/FudMentor.git
+git clone https://github.com/iamkhaleel/UGPROJECTS-2023/FCP-CSC-18-1080/FudMentor.git
 Navigate to the project directory:
 
 bash
