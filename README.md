@@ -15,6 +15,8 @@ Getting Started
 To get started with the Mentor-Mentee App, follow these steps:
 
 Prerequisites
+install and Run Android studio or Xcode 
+Run your Development Environment. Vscode is adviced
 Make sure you have Flutter and Dart installed on your development environment.
 Create a Firebase project and set up the necessary configuration.
 
